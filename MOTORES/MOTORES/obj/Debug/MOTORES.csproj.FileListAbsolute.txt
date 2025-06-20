@@ -1,0 +1,8 @@
+C:\Users\Juca\source\repos\MOTORES\MOTORES\bin\Debug\MOTORES.exe.config
+C:\Users\Juca\source\repos\MOTORES\MOTORES\bin\Debug\MOTORES.exe
+C:\Users\Juca\source\repos\MOTORES\MOTORES\bin\Debug\MOTORES.pdb
+C:\Users\Juca\source\repos\MOTORES\MOTORES\obj\Debug\MOTORES.csproj.AssemblyReference.cache
+C:\Users\Juca\source\repos\MOTORES\MOTORES\obj\Debug\MOTORES.csproj.CoreCompileInputs.cache
+C:\Users\Juca\source\repos\MOTORES\MOTORES\obj\Debug\MOTORES.exe
+C:\Users\Juca\source\repos\MOTORES\MOTORES\obj\Debug\MOTORES.pdb
+C:\Users\Juca\source\repos\MOTORES\MOTORES\obj\Debug\MOTORES.exe.config
